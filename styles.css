@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .image{
@@ -19,9 +20,7 @@ body {
 }
 
 h1 {
-    color: #051326;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 80px;
     text-transform: uppercase;
-    text-align: center;
 }
