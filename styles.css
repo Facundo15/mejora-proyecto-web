@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: #ffffff;
 }
 
 .image{
@@ -16,4 +16,12 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+h1 {
+    color: #051326;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
 }
